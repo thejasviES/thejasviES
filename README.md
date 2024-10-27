@@ -4,7 +4,6 @@ Fullstack dev by day, goalkeeper by... well, whenever there's a match! Currently
 
 ## What I'm up to:
 * 💻 Building AI-powered stuff at Wise Counsel AI (and occasionally arguing with the AI)
-* 🥅 State-level goalkeeper - because stopping bugs wasn't challenging enough
 * 🌍 When not coding or diving for saves, you'll find me exploring new places and cultures
 
 Got any cool project ideas or want to chat about the beautiful game? Hit me up! Always down for some tech talk, football banter, or swapping travel stories.
