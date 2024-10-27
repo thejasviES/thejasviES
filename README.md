@@ -9,7 +9,8 @@ Fullstack dev by day, goalkeeper by... well, whenever there's a match! Currently
 Got any cool project ideas or want to chat about the beautiful game? Hit me up! Always down for some tech talk, football banter, or swapping travel stories.
 
 
-
+## 📫 Contact:
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:thejasvies244@gmail.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thejasvi-e-s/) 
